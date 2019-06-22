@@ -1,0 +1,8 @@
+body{
+  white-space: nowrap;
+  color: blue;
+}
+
+#shortcutKey{
+  width: 100px;
+}
